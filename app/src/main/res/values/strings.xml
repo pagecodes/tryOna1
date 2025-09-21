@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">WebView App</string>
+    <string name="login">Login</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="login_error">Login failed. Please check your credentials.</string>
+    <string name="network_error">Network error. Please check your connection.</string>
+    <string name="loading">Loading...</string>
+</resources>
